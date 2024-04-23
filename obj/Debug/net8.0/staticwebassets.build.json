@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gGcGp7FQ1dztL8SPpQN7rHvUNwATA4brRi4j159FP6g=",
+  "Source": "otel",
+  "BasePath": "_content/otel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
